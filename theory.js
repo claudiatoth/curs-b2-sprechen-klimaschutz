@@ -140,7 +140,7 @@ const theoryHTML = `
             <span class="sub-arrow">▼</span>
         </div>
         <div class="sub-section-content" id="sub-section-4">
-            <div class="theory-box" style="background: #fef3c7;">
+            <div class="theory-box" style="background: #F5F0E8;">
                 <h4>Contra acțiuni individuale</h4>
                 <table class="grammar-table">
                     <tr><th>Germană</th><th>Română</th></tr>
@@ -230,7 +230,7 @@ const theoryHTML = `
                 </table>
             </div>
 
-            <div class="theory-box" style="background: #fef3c7;">
+            <div class="theory-box" style="background: #F5F0E8;">
                 <h4>Pentru concluzie</h4>
                 <table class="grammar-table">
                     <tr><th>Germană</th><th>Română</th></tr>
